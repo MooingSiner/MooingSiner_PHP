@@ -68,8 +68,8 @@ $revenue = $revRow['s'];
   <div class="row mt-5">
     <div class="col-md-12">
       <h5 class="mb-3">Quick Links</h5>
-      <a href="/assess/pages/clients_add.php" class="btn btn-primary me-2"><i class="bi bi-person-plus"></i> Add Client</a>
-      <a href="/assess/pages/bookings_create.php" class="btn btn-success"><i class="bi bi-calendar-plus"></i> Create Booking</a>
+      <a href="/pages/clients_add.php" class="btn btn-primary me-2"><i class="bi bi-person-plus"></i> Add Client</a>
+      <a href="/pages/bookings_create.php" class="btn btn-success"><i class="bi bi-calendar-plus"></i> Create Booking</a>
     </div>
   </div>
 </div>
